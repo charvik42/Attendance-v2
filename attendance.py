@@ -41,7 +41,7 @@ else:
         pickle.dump((encodeListKnown, classNames), f)
     print("Encodings saved to file.")
 
-# ---------- Mark Attendance ----------
+# Mark Attendance in csv
 # def markAttendance(name):
 #     with open('Attendance.csv', 'a+') as f:
 #         f.seek(0)
