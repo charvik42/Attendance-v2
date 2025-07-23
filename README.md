@@ -20,7 +20,6 @@ It uses `OpenCV`, `face_recognition`, and `pymysql`.
 ---
 
 ## Requirements
-
-Run the command `pip install -r requirements.txt` in your terminal. 
+Install Python dependencies using the command `pip install -r requirements.txt` in your terminal.
 Use MySQL Workbench and run the script `Attendance Data.sql`. 
 Make sure to set the password and database to your own. 
